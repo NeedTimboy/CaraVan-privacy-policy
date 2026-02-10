@@ -1,4 +1,4 @@
-Privacy Policy for CaraVan
+Privacy Policy and CSAE Prevention Standards for CaraVan
 Last Updated: 2/10/2026
 
 1. Introduction
@@ -96,3 +96,42 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 12. Contact Us
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 Email: tim@timboy.art
+
+Child Sexual Abuse and Exploitation (CSAE) Prevention Standards
+Last Updated: 2/10/2026
+
+1. Zero-Tolerance Policy
+CaraVan maintains a zero-tolerance policy towards any content, behavior, or individual involved in the sexual exploitation or abuse of minors. This includes but is not limited to child sexual abuse material (CSAM), grooming, sexual solicitation of minors, or any related harmful activity.
+
+2. Age Restrictions and Verification
+Strict Age Gating: CaraVan is restricted to users aged 18 and older. Account registration requires a valid date of birth confirming this minimum age.
+
+Proactive Measures: We employ a combination of technical signals and user reporting to identify and remove accounts suspected of belonging to underage users.
+
+3. Proactive Detection and Moderation
+Automated Screening: All user-uploaded images are screened using industry-standard, hash-matching technology against known databases of CSAM.
+
+Trained Moderators: Our safety team receives specialized training to recognize and act upon signs of predatory behavior, grooming, and exploitative content.
+
+User Reporting: In-app reporting tools are prominently available for users to flag suspicious behavior, profiles, or content related to child safety concerns. These reports are prioritized for immediate review.
+
+4. Mandatory Reporting and Legal Cooperation
+Legal Compliance: We comply with all applicable laws, including mandates to report suspected CSAM to the relevant authorities, specifically the National Center for Missing & Exploited Children (NCMEC) in the United States and equivalent bodies in other jurisdictions.
+
+Preservation of Evidence: In cases of a credible report, we preserve relevant data and information to assist law enforcement investigations.
+
+5. Community Guidelines and User Education
+Clear Rules: Our publicly available Community Guidelines explicitly prohibit any behavior that endangers minors, including pretending to be a minor for exploitative purposes.
+
+Safety Resources: We provide users with in-app safety tips and links to external resources for recognizing and reporting online exploitation.
+
+6. Employee and Contractor Safeguards
+All employees and contractors with access to user data or content undergo background checks as permitted by law.
+
+Access to sensitive user reports and content is strictly limited to authorized, trained personnel on a need-to-know basis.
+
+7. Continuous Improvement
+We regularly review and update our technical systems, policies, and training programs in line with evolving best practices and threats in the field of online child safety.
+
+8. Contact for CSAE Concerns
+Suspected child exploitation can be reported directly within the CaraVan app using the reporting feature. 
